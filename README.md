@@ -1,0 +1,2 @@
+# SecretCode
+In this project, we can post our secrets anonymously. I had created this project with Node.js using the express module along with Embedded Javascript Templating(EJS). I used MongoDB Atlas to connect my database and used "bcrypt" library for encryption and salting of the password. I used the passport library a lot for handling the sessions and cookies. You can take a look at my project on the link.
